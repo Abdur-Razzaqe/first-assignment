@@ -96,23 +96,30 @@ section h3{
     gap: 165px;
 }
 
-.feedback{
-    
-}
 .feedback-container{
-    display: flex;
-    justify-content: space-around;
-    box-shadow: 5px;
+    display:flex;
     padding-top: 50px;
-    column-gap: 20px;
+        
+}
+.feedback{
+    margin: 24px;
+    box-shadow: 10px;
+    
+}  
+
+.name{
+    display: inline;
+    margin-top: 0px;
 
 }
-.feedback-user{
-    display:
-
+.date{
+    display:grid;
+    padding: 0px 0px 0px 40px;
 }
-.img{
-    border-radius: 50%;
+
+.radius{
+    border-radius: 100%;
+    padding-bottom: 0px;
 }
 .focus-better{
      display: flexbox;
@@ -170,13 +177,6 @@ input[type=submit]{
     padding-bottom:0px ;
 
 
-
-}
-div h1{
-    
-    font-size: 100px;
-    font-weight: bold;
-    margin-bottom: 020px;
 }
 .title-description{
     font-family: 16px;
