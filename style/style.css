@@ -211,18 +211,18 @@ footer li a{
     text-decoration: none;
 }
 
-div button{
+/* div button{
     background-color: burlywood;
     margin: 500px;
     padding: 50px 70px;
     font-size: 50px;
     
-}
+} */
     
 ::before{
-    color: aqua;
+    color: rgb(52, 148, 148);
 }
 
-.btn{
-    hover
+.btn hover::before{
+    color:white;
 }
