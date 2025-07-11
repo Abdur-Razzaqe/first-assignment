@@ -158,11 +158,10 @@ input[type="text"], input[type="textarea"],input[type="submit"] {
     margin: 19px 0px;
     font-weight:bold;
 }
-.column-width{
-    width: 100%;
-    display
-}
 
+input[type=submit]{
+    background-color: #4E47FF;
+}
 .footer-section{
     text-align: center;
 }
